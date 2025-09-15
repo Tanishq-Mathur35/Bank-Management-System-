@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Tanishq",
+        "age": 19,
+        "email": "tanishq@gmail.com",
+        "pin": 1234,
+        "accountNo.": "1234",
+        "balance": 0
+    },
+    {
+        "name": "harsh patel",
+        "age": 24,
+        "email": "harsh@gmail.com",
+        "pin": 1342,
+        "accountNo.": "17eL0k@",
+        "balance": 1000
+    },
+    {
+        "name": "abcdef",
+        "age": 23,
+        "email": "abcdef@gmail.com",
+        "pin": 2345,
+        "accountNo.": "x2N@G46",
+        "balance": 0
+    },
+    {
+        "name": "Tanishq",
+        "age": 20,
+        "email": "tanishq.unofficial@gmail.com",
+        "pin": 2345,
+        "accountNo.": "P69BU&9",
+        "balance": 10500
+    },
+    {
+        "name": "ududud",
+        "age": 111,
+        "email": "uuu@gmaal.com",
+        "pin": 1141,
+        "accountNo.": "3AJ*53l",
+        "balance": 1100
+    },
+    {
+        "name": "Vaibhav Singh",
+        "age": 20,
+        "email": "vaibhav123@gmail.com",
+        "pin": 1406,
+        "accountNo.": "p7L7R4&",
+        "balance": 0
+    },
+    {
+        "name": "Rahul",
+        "age": 20,
+        "email": "rahul234@gmail.com",
+        "pin": 1234,
+        "accountNo.": "LS9@75b",
+        "balance": 10000
+    }
+]
